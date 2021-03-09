@@ -1,0 +1,43 @@
+body{
+    background: url('p.jpg');
+    font-family: 'Roboto Slab', serif;
+    color: white;
+    background-repeat: no-repeat;
+    background-size:  cover;
+    
+}
+
+header nav ul li {
+    display: inline-block;
+    padding: 20px;
+    margin-top: 0;
+    float: right;
+
+    
+
+
+
+}
+
+footer{
+    text-align: center;
+    clear: both;
+    color:white ;
+    margin-top: 700px;
+}
+
+
+
+
+header nav ul li a{
+    text-decoration: none;
+    color: white;
+}
+header h1{
+    text-align: center;
+    color: aliceblue;
+}
+.form{
+    margin-top: 100px;
+    float: left;
+}
